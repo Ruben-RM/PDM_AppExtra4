@@ -10,4 +10,5 @@
     <color name="gris">#FF505050</color>
     <color name="azul">#FF0000FF</color>
     <color name="amarillo">#FFE4E332</color>
+    <color name="amarillo_oscuro">#666500</color>
 </resources>
